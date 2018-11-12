@@ -42,3 +42,7 @@ layer {
   }
 }
 ```
+
+
+
+need to modified the base_lr from 0.001 to 0.0001. else, the loss would be nan......
